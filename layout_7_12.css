@@ -1,0 +1,144 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header-main
+{
+    width: 100%;
+    height: 130px;
+    background-color: black;
+    margin-bottom: 10px;
+}
+.header-main-section1
+{
+    width: 100%;
+    height: 90px;
+    background-color: gray;
+    color: white;
+    font-size: 30px;
+    padding-left: 20px;
+    line-height: 90px;
+    margin-bottom: 5px;
+}
+.header-main-section2
+{
+width: 100%;
+height: 20px;
+padding-left: 20px;
+padding-right: 20px;
+line-height: 20px;
+}
+.header-main-section2 nav a
+{
+    padding: 2px;
+    padding-top: 3px;
+    text-decoration: none;
+    margin-left: 10px;
+    color: white;
+}
+.header-main-section2 nav a:hover
+{
+ background-color: azure;
+ color: black;
+}
+.main-body
+{
+    width: 100%;
+    height: 920px;
+}
+.main-body-content
+{
+    width: 70%;
+    height: 920px;
+    float: left;
+    padding: 10px;
+}
+.main-body-content-row1
+{
+    border: 2px solid black;
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+.main-body-content-row1 h1
+{
+    font-size: 30px;
+}
+.main-body-content-row1 p
+{
+    text-align: justify;
+    font-size: 20px;
+}
+.main-body-content-row1 button
+{
+    font-size: 15px;
+    background-color: white;
+    padding: 5px;
+    width: 100px;
+    border-radius: 10px;
+}
+.main-body-content-row1 button:hover
+{
+    background-color: silver;
+}
+.main-body-content-row1 button a
+{
+    text-decoration: none;
+    color: black;
+}
+.main-body-content-row2
+{
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+}
+.main-body-content-row2-column1
+{
+    width: 47%;
+    padding: 10px;
+    text-align: justify;
+    float: left;
+}
+.main-body-content-row2 h1
+{
+    font-size: 25px;
+}
+.main-body-content-row2-column2
+{
+    width: 47%;
+    padding: 10px;
+    text-align: justify;
+    float: right;
+}
+.main-body-content-row3
+{
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+}
+.main-body-content-row3 h1
+{
+    font-size: 25px;
+}
+.main-body-aside
+{
+    width: 26%;
+    height: 920px;
+    float: right;
+    background-color: lightgray;
+
+}
+.footer-main
+{
+    margin-top: 10px;
+    width: 100%;
+    height: 40px;
+    color: white;
+    line-height: 40px;
+    font-size: 20px;
+    background-color: black;
+}
